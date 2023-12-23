@@ -1,0 +1,10 @@
+You have ordered: 
+2 Margherita Pizza 
+2 Taco Mexican Veg 
+Amount to pay 376
+
+Order To be delivered at
+NAME :vitthal
+ADDRESS :104
+PHONE NUMBER :9817570250
+************************************************
